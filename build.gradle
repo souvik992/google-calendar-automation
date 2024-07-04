@@ -27,6 +27,8 @@ dependencies {
     implementation 'org.seleniumhq.selenium:selenium-java:4.21.0'
 }
 
+
+
 //task startScript(type:Exec) {
 //    commandLine './selenium-run.sh'
 //}
@@ -36,3 +38,4 @@ dependencies {
 //test.dependsOn startScript
 
 mainClassName = 'demo.App'
+
